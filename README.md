@@ -1,1 +1,1 @@
-# bot.assn
+CryptoBuddy is a simple rule-based Python chatbot that helps users explore basic crypto insights using predefined data. It can answer questions about trending coins, sustainability, profitability, and energy use in a friendly and engaging way.# bot.assn
